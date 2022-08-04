@@ -42,7 +42,7 @@ I obviously don't know the correct order of the html hierarchy. I had to brush u
 - [ ] http://w3schools.com tutorials for HTML & CSS<br>
 ### **Project Idea:**<br>
 - [ ] Time Princess Selfie Website<br>
-### **Today's Project-->** https://github.com/Plantmora/100-days-of-code/blob/e5e8f467872c5cf753fc940566a32547f0210c8d/Coding/August-3-2022/08-03-22.html
+### **Today's Project-->** Coding/August-3-2022/08-03-22.html
 
 
 
